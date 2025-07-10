@@ -6,6 +6,7 @@ A full-stack trading platform inspired by Zerodha's dashboard. This project is d
 
 - 🔹 Landing Page: [https://candid-cupcake-537f43.netlify.app](https://candid-cupcake-537f43.netlify.app)
 - 🔹 Dashboard: [https://tradingplatformdashboard.netlify.app](https://tradingplatformdashboard.netlify.app)
+- 🔹 Backend: [https://trading-platform-backend-4k62.onrender.com](https://trading-platform-backend-4k62.onrender.com)
 
 ---
 
