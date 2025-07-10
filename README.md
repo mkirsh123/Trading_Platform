@@ -12,14 +12,14 @@ A full-stack trading platform inspired by Zerodha's dashboard. This project is d
 ## 📸 Screenshots
 
 ### 🔐 Landing Page (Signup/Info Page)
-![Landing Page](./screenshots/landing-page.png)
+![Landing Page](https://github.com/mkirsh123/Trading_Platform/blob/252fda23af4fc8fb10afe53d21ccabbeb1ad0544/img/Frontend_signin.png)
 
 > **Note:** Due to some issues, user authentication is currently not functional. You can still navigate to the dashboard directly using the “Go to Dashboard” button.
 
 ---
 
 ### 📊 Dashboard Preview
-![Dashboard Preview](./screenshots/dashboard-preview.png)
+![Dashboard Preview](https://github.com/mkirsh123/Trading_Platform/blob/252fda23af4fc8fb10afe53d21ccabbeb1ad0544/img/dashboard.png)
 
 - Summary of equity and commodity balances.
 - Holdings breakdown with gain/loss bars.
@@ -29,7 +29,7 @@ A full-stack trading platform inspired by Zerodha's dashboard. This project is d
 ---
 
 ### 🗃️ Orders in MongoDB Atlas
-![MongoDB](./screenshots/mongodb-orders.png)
+![MongoDB](https://github.com/mkirsh123/Trading_Platform/blob/252fda23af4fc8fb10afe53d21ccabbeb1ad0544/img/MonogoDB.png)
 
 - Integrated with MongoDB Atlas.
 - Orders are stored in the `Trading.orders` collection.
@@ -38,7 +38,7 @@ A full-stack trading platform inspired by Zerodha's dashboard. This project is d
 ---
 
 ### 👤 Dashboard UI for Logged-in Users
-![Dashboard Logged In](./screenshots/user-dashboard.png)
+![Buy Stock UI](https://github.com/mkirsh123/Trading_Platform/blob/252fda23af4fc8fb10afe53d21ccabbeb1ad0544/img/buy_stock.png)
 
 - Displays equities and balances per user.
 - Sidebar contains live stock listings with percentage change.
