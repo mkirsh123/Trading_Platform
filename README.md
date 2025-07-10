@@ -11,7 +11,19 @@ A full-stack trading platform inspired by Zerodha's dashboard. This project is d
 
 ## 📸 Screenshots
 
-### 🔐 Landing Page (Signup/Info Page)
+### 🔐 Landing Page
+![Landing Page](https://github.com/mkirsh123/Trading_Platform/blob/9f779d0a4360e8d290449fe82f6948852c7d2663/img/Frontend.png)
+- 🔥 Logo with the name **RAMAKRISHNA**
+- 🧭 Navigation Menu:
+  - Signup
+  - About
+  - Product
+  - Pricing
+  - Support
+    
+---
+
+### 🔐 Signup Page
 ![Landing Page](https://github.com/mkirsh123/Trading_Platform/blob/252fda23af4fc8fb10afe53d21ccabbeb1ad0544/img/Frontend_signin.png)
 
 > **Note:** Due to some issues, user authentication is currently not functional. You can still navigate to the dashboard directly using the “Go to Dashboard” button.
