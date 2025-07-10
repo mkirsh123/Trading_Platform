@@ -13,7 +13,6 @@ A full-stack trading platform inspired by Zerodha's dashboard. This project is d
 
 ### 🔐 Landing Page
 ![Landing Page](https://github.com/mkirsh123/Trading_Platform/blob/9f779d0a4360e8d290449fe82f6948852c7d2663/img/Frontend.png)
-- 🔥 Logo with the name **RAMAKRISHNA**
 - 🧭 Navigation Menu:
   - Signup
   - About
