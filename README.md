@@ -7,7 +7,9 @@ A full-stack trading platform inspired by Zerodha's dashboard. This project is d
 - 🔹 Landing Page: [https://candid-cupcake-537f43.netlify.app](https://candid-cupcake-537f43.netlify.app)
 - 🔹 Dashboard: [https://tradingplatformdashboard.netlify.app](https://tradingplatformdashboard.netlify.app)
 - 🔹 Backend: [https://trading-platform-backend-4k62.onrender.com](https://trading-platform-backend-4k62.onrender.com)
-
+- 🔹 User-Frontend: [https://courageous-tanuki-f990a5.netlify.app](https://courageous-tanuki-f990a5.netlify.app) 
+- 🔹 User-Backend: [https://trading-platform-user-backend.onrender.com](https://trading-platform-user-backend.onrender.com)
+  
 ---
 
 ## 📸 Screenshots
@@ -26,7 +28,7 @@ A full-stack trading platform inspired by Zerodha's dashboard. This project is d
 ### 🔐 Signup Page
 ![Landing Page](https://github.com/mkirsh123/Trading_Platform/blob/252fda23af4fc8fb10afe53d21ccabbeb1ad0544/img/Frontend_signin.png)
 
-> **Note:** Due to some issues, user authentication is currently not functional. You can still navigate to the dashboard directly using the “Go to Dashboard” button.
+> **Note:** 
 
 ---
 
