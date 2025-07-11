@@ -25,10 +25,26 @@ A full-stack trading platform inspired by Zerodha's dashboard. This project is d
     
 ---
 
-### 🔐 Signup Page
-![Landing Page](https://github.com/mkirsh123/Trading_Platform/blob/252fda23af4fc8fb10afe53d21ccabbeb1ad0544/img/Frontend_signin.png)
+### 🔐 Signup Landing Page
+![Way To User_Authentication](https://github.com/mkirsh123/Trading_Platform/blob/8387817d9ff3d1d3a3e71326e280b7997174e54a/img/Sign%20In.png)
+A clean and professional landing page prompting users to sign up and access the dashboard. Built using **React** and **CSS**, deployed on **Netlify**.
 
-> **Note:** 
+## 🔹 Features
+1. **Call to Action**: Centralized signup prompt with a button that leads users to the registration flow.
+2. **Structured Layout**: Includes a responsive navbar, main CTA card, and a well-organized footer with useful company, support, and quick links.
+3. **Branding**: Professional look and feel with logo, copyright, and consistent theme.
+
+---
+
+### 🔐 Signup Page
+![Landing Page](https://github.com/mkirsh123/Trading_Platform/blob/8387817d9ff3d1d3a3e71326e280b7997174e54a/img/User_Authentication.png)
+
+A modern and responsive signup form built using **React** and **CSS**, deployed on **Netlify**.
+
+## 🔹 Features
+1. **User Interface**: Clean and responsive signup form with fields for email, username, and password.
+2. **Navigation**: Includes a link to the login page for existing users.
+3. **Styling**: Gradient background with a card-style form using custom CSS for appealing visuals.
 
 ---
 
