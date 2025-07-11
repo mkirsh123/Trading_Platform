@@ -51,10 +51,12 @@ A modern and responsive signup form built using **React** and **CSS**, deployed 
 ### 📊 Dashboard Preview
 ![Dashboard Preview](https://github.com/mkirsh123/Trading_Platform/blob/252fda23af4fc8fb10afe53d21ccabbeb1ad0544/img/dashboard.png)
 
-- Summary of equity and commodity balances.
-- Holdings breakdown with gain/loss bars.
-- Pie chart showing asset allocation.
-- Market overview graph and position heatmap.
+A fully responsive trading dashboard built using **React** that allows users to view real-time stock data, track their holdings, and monitor their equity margins.
+
+## 🔹 Features
+1. **Live Market Data**: Real-time updates for NIFTY 50, SENSEX, and individual stock prices with percentage changes.
+2. **User Dashboard**: Personalized greeting with equity summary including margin available, used margin, and opening balance.
+3. **Navigation**: Clean navbar with links to Dashboard, Orders, Holdings, Positions, Funds, and Apps for smooth user experience.
 
 ---
 
